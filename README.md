@@ -1,6 +1,6 @@
 # WordCloudGenerator
 
-Y2S2 Data Structures & Algorithms
+Year 2, Semester 2 Data Structures & Algorithms
 
 ## Description
 A Java command-line application that can parse a text file or a URL and generate a simple word cloud displaying the most prominent words in decreasing font size.
