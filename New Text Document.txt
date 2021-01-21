@@ -1,0 +1,17 @@
+WordCloud Generator
+G00361162 - Mateusz Pawlowski
+
+Requirements
+jsoup for URLs
+JavaSE-1.8 or higer
+
+Functions And Running
+Program has 3 functions: 1 to enter a file, 2 to enter a url, 3 to exit the program.
+Once the user picks either 1 or 2 he is allowed to enter the specific file/url.
+This creates a word cloud of random generated words from the file/link.
+There is a special ignorewords.txt file which blocks a certain amount of words and they do
+not end up in the final image.
+The image is .png and creates a wordcloud, with random fonts, colours, and stylings.
+
+
+This was a very enjoyable time. Professional approach of the boss, calm and collective knowing the locations very well. I recommend this company anytime.
